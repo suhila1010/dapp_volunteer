@@ -77,7 +77,7 @@ module.exports = {
   mocha: {
     // timeout: 100000
   },
-
+  contracts_build_directory: "./public/build",
   // Configure your compilers
   compilers: {
     solc: {
